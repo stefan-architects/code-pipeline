@@ -11,8 +11,6 @@ Code Pipeline exercise to learn the basics by creating a custom two-stage pipeli
 - Triggered the pipeline through GitHub commits  
 - Removed the pipeline after completing the exercise
 - Added a remote bucket to trigger a parallel update
-  
-  > *NOTE:* Build and Test stages where skipped as they were not part of the exercise. They will be attempted at a later date.
 
 ## 3. 🚀 Deployment Architecture
 The following diagrams illustrate the different deployment flows supported by the platform.
@@ -39,7 +37,8 @@ During the initial pipeline setup and deployment, I encountered several configur
 - **Investigation:** Reviewed the pipeline configuration and verified the incorrect ZIP file.
 - **Resolution:** Updated the pipeline with the correct ZIP file name and re-ran pipeline.
 
-> *Note:* I went through the long way of troubleshooting both issues before I knew I was able to edit from the pipeline screen.
+> [!NOTE] 
+> I went through the long way of troubleshooting both issues before I knew I was able to edit from the pipeline screen.
 
 ## 5. 👁️ Key Takeaways
 - Built and modified multi‑stage pipelines using both versioned S3 buckets and GitHub repositories, gaining hands‑on experience with different source triggers.  
@@ -47,7 +46,6 @@ During the initial pipeline setup and deployment, I encountered several configur
 - Reviewed pipeline execution history and logs to understand how each stage processes artifacts and how AWS tracks workflow progress.  
 - Manually adjusted pipeline configurations, triggered new runs, and removed pipelines after completion to practice full lifecycle management.  
 - Added a remote S3 bucket to trigger parallel updates, demonstrating how pipelines can coordinate multiple sources and workflows.
--
 
 ## 6. 🔍 Exploring Next
 - CodeBuild
