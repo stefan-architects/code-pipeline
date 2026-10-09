@@ -1,20 +1,29 @@
-## 🧬 AWS DevOps CI/CD Learning Project
-Learning how to host code, build, test, and deploy applications using AWS developer tools.
+## 1. 🧬 Building CI/CD Pipelines on AWS
+A practical demonstration of modern DevOps and CI/CD workflows using AWS Developer Tools. 
 
-### 🎓 **Learning Source**
-- Udemy: [AWS CodePipeline Step by Step](https://www.udemy.com/course/aws-codepipeline-step-by-step/?couponCode=MT261005G1) — Emre Yilmaz  
-  *Purpose: Build, test, and deploy applications using AWS developer tools.*
+> [!IMPORTANT]
+> This repository is under active development. Features and functionality may change as development progresses.
 
-## Services and Resources Used 
-- **Dev Tools:** CodePipeline, CodeBuild, Git, GitHub
-- **Security:** Polices, Roles
+## 2. 📋 About This Repository
+This repository uses Angular as a foundation for exploring DevOps and CI/CD practices, with an emphasis on automating application builds, testing, and deployments to improve software quality and delivery reliability. Learning objectives are reinforced through hands-on exercises from Emre Yilmaz's Udemy course, [AWS CodePipeline Step by Step](https://www.udemy.com/course/aws-codepipeline-step-by-step/?couponCode=MT261005G1), which provide practical experience implementing AWS CodePipeline and related CI/CD automation workflows.
+
+## 3. 🔄 CI/CD Learning Goals
+- **Continuous Integration (CI):** Automate application builds and testing.
+- **Continuous Delivery/Deployment (CD):** Establish a repeatable application deployment workflow.
+- **Quality Assurance:** Improve code reliability through automated validation.
+- **Process Automation:** Reduce manual effort across the build, test, and deployment stages.
+- **AWS Integration:** Explore AWS developer tools to support automated software delivery.
+
+## 4. 🧰 Technology Stack
+- **CI/CD & Version Control:** CodePipeline, CodeBuild, CodeDeploy, Git, GitHub
+- **Security:** IAM Policies, IAM Roles, S3 Bucket Policies 
 - **Storage:** S3
-- **Compute:** EC2
-- **Monitoring:** CloudWatch, Logs
+- **Compute:** EC2, ECS, Auto Scaling, Load Balancing
+- **Monitoring & Logging:** CloudWatch Logs
 
-## 🛰️ Finished Pipeline Exercises
+## 5. 📈 Progress to Date
 - code-pipeline-website
 - code-build-website
 
-## 📡 Pipeline In Motion
+## 6. 🔨 Currently in Development
 - code-deploy-ec2
