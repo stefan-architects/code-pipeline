@@ -1,7 +1,7 @@
 ## 1. 🌐 AWS CodeBuild Website
 Building and deploying an Angular application while gaining hands‑on experience with AWS CodeBuild and AWS CodePipeline to automate the build, test, and deployment process into an S3 bucket.
 
->![NOTE]
+> [!NOTE]
 > This documentation focuses on pipeline execution and validation results. The buildspec.yml and buildspec-test.yml files are not included in the repository.
 
 ## 2. 🎓 CodeBuild Learning Objectives
