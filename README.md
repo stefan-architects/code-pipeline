@@ -22,8 +22,8 @@ This repository uses Angular as a foundation for exploring DevOps and CI/CD prac
 - **Monitoring & Logging:** CloudWatch Logs
 
 ## 5. 📈 Progress to Date
+- code-build-website
 - code-pipeline-website
 
 ## 6. 🔨 Currently in Development
-- code-build-website
 - code-deploy-ec2
