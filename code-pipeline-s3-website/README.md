@@ -33,13 +33,13 @@ This README introduces the basics of AWS CodePipeline, a fully managed continuou
 - Created, updated, and deleted AWS CodePipeline pipelines
 - Built a custom two-stage pipeline using versioned Amazon S3 buckets
 - Modified pipeline configurations and manually triggered pipeline executions 
-![alt text](demo-pipleline-github.png)
+![demo-pipleline-s3](images/demo-pipleline-s3.png)
 
 ### Source Integration
 - Integrated GitHub as a source provider for AWS CodePipeline
 - Configured Amazon S3 buckets as versioned source repositories
 - Added a remote S3 bucket to trigger parallel pipeline updates
-![alt text](demo-pipleline-s3.png)
+![demo-pipleline-github](images/demo-pipleline-github.png)
 
 ### IAM and Security
 - Created and configured IAM service roles for AWS CodePipeline
