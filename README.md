@@ -1,8 +1,20 @@
-## 1. 📋 About This Repository
-This repository uses **Angular** as the foundation for exploring DevOps, Continuous Integration (CI), and Continuous Delivery/Deployment (CD) practices within the AWS ecosystem. The following learning resources are used:
+## 1. 📋 AWS Developer Tools CI/CD Pipeline
+Built an end-to-end CI/CD pipeline on AWS to automate application builds, testing, and deployments using cloud-native DevOps tools.
 
-> [!IMPORTANT]
-> This repository is under active development. Features and functionality may change as development progresses.
+> [!NOTE]
+> **Project Status: On Hold**  
+> Activities for this project are temporarily paused as I prepare for the AWS AI Practitioner exam.
+
+### Overview
+This project demonstrates a modern DevOps workflow leveraging AWS Developer Tools to streamline software delivery, reduce manual effort, and improve deployment reliability.
+
+### 📡 DevOps Technology Stack
+- **AWS Dev Tools:** AWS CodePipeline, AWS CodeBuild, AWS CodeDeploy, AWS CloudShell Git, GitHub
+- **Compute:** EC2
+- **Networking:** VPC, ELB
+- **Security & Access Management:** IAM Policies, IAM Roles, Amazon S3 Bucket Policies
+- **Storage:** Amazon S3
+- **Monitoring & Logging:** Amazon CloudWatch, CloudWatch Logs
 
 ### 🎓 Supporting Resources
 - [AWS CodePipeline Step by Step - Udemy](https://www.udemy.com/course/aws-codepipeline-step-by-step/?couponCode=MT261012G1)
@@ -18,15 +30,10 @@ This repository uses **Angular** as the foundation for exploring DevOps, Continu
 - **AWS DevOps Practices:** Apply AWS operational best practices, deployment strategies, and rollback mechanisms.
 - **Documentation and Troubleshooting:** Use official AWS documentation to validate configurations and resolve issues.
 
-## 3. 📡 DevOps Technology Stack
-- **CI/CD & Version Control:** AWS CodePipeline, AWS CodeBuild, AWS CodeDeploy, Git, GitHub
-- **Security & Access Management:** IAM Policies, IAM Roles, Amazon S3 Bucket Policies
-- **Storage:** Amazon S3
-- **Monitoring & Logging:** Amazon CloudWatch, CloudWatch Logs
-
 ## 4. 🧬 Successfully Deployed
 - ✅ code-pipeline-s3-website
+- ✅ code-build-angular
 
 ## 5. 🧪 In Active Development
 - 🚧 code-deploy-angular
-- 🚧 code-build-angular
+- 🚧 
