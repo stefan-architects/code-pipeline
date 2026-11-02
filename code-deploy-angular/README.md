@@ -1,5 +1,4 @@
-> [!NOTE]
-> **Project Status: On Hold**  
+> [!NOTE] Project Status: On Hold
 > Activities for this project are temporarily paused as I prepare for the AWS AI Practitioner exam.
 
 ## 1. 🌐 AWS CodeDeploy Website
